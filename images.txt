@@ -1,1 +1,1 @@
-richxsl/rhel7:min
+registry.access.redhat.com/ubi7/ubi:7.9
