@@ -1,1 +1,1 @@
-centos:7
+richxsl/rhel7:min
