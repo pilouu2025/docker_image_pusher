@@ -1,2 +1,2 @@
-centos7
+centos
 centos:centos7
